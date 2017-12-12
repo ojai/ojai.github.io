@@ -1,9 +1,11 @@
 org.ojai
 org.ojai.annotation
+org.ojai.base
 org.ojai.beans
 org.ojai.exceptions
 org.ojai.json
 org.ojai.store
+org.ojai.store.cdc
 org.ojai.store.exceptions
 org.ojai.types
 org.ojai.util
